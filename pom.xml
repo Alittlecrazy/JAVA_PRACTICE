@@ -12,6 +12,7 @@
     <modules>
         <module>NIO_PRACTICE</module>
         <module>JAVA_COMMON</module>
+        <module>NETTY_PRACTICE</module>
     </modules>
 
 
