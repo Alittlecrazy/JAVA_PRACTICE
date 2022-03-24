@@ -1,0 +1,5 @@
+#练习添加taskqueue和scheduleTaskQueue
+
+taskqueue是普通任务  scheduleTaskQueue是定时任务
+
+目的是用来处理阻塞时间较长的任务
